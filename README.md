@@ -1,4 +1,4 @@
-# CollectionBuilder-CONTENTdm
+# Sor Isolina Ferré Digital Archive
 
 > **Note: the CollectionBuilder-CONTENTdm template is not actively developed and may lag behind other templates.**
 > For new projects please consider using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv) which contains some updated features and flexibility.
