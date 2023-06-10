@@ -1,18 +1,15 @@
 field,display_name,browse_link,dc_map,schema_map
-title,Title,,DCTERMS.title,headline
-creator,Creator,,DCTERMS.creator,creator
-recipient,Recipient,
-date,Date Created,,DCTERMS.created,dateCreated
-date-is-approximate,Approximated Date
-description,Description,,DCTERMS.description,description
-item-information,Item Information,
-subject,Subjects,true,DCTERMS.subject,keywords
+title,Título,,DCTERMS.title,headline
+creator,Creador,true,DCTERMS.creator,creator
+date,Fecha,,DCTERMS.created,dateCreated
+description,Descripción,,DCTERMS.description,description
+subject,Materias,true,DCTERMS.subject,keywords
+local-subject,Materias locales,true,DCTERMS.subject,keywords
 location,Location,,,contentLocation
-latitude,Latitude
-longitude,Longitude
+latitude,Latitud
+longitude,Longitud
 source,Source
-identifier,Source Identifier
-type,Type,,DCTERMS.type
-format original,Format Original
-format,Format,,,encodingFormat
-rightsstatement,,,DCTERMS.rights,license
+objectid,Identificador
+type,Tipo,,DCTERMS.type
+format,Formato,,,encodingFormat
+rights,Derechos,,DCTERMS.rights,license
